@@ -11,4 +11,4 @@ Check Sorting: Determine whether the array is sorted in ascending order and prov
 <br>
 Find Maximum and Minimum: Identify and display the maximum and minimum elements within the array.
 <br>
-Display Original Array: Allow users to view the original array at any time, with a prompt to re-enter values if needed after reversal.
+Display Original Array:Allow users to view the original array at any time, with a prompt to re-enter values if needed after reversal.
